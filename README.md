@@ -71,4 +71,7 @@
     <p>Colocado na pasta Documentação, deste projeto, todos os dados utilizados, assim como os modelos relacionais, 
     dicionário de dados, os dados utilizados e todo comando MySql utilizado.</p>
   </li>
+   <li>
+    <p>Futuramente será implementado o JPA - Java Persistence API</p>
+  </li>
 </ul>
