@@ -52,6 +52,10 @@
     </p>
     <p>Na tela de gerenciamento - SGM, navegue e utilize as demais funcionalidades. 
     Todos os dados são gerados a partir do banco de dados.</p>
+    <p>A parte de impressora, é uma simulação que deverá futuramente rodar em paralelo com o projeto citado acima, 
+        no projeto atual, apenas os arquivos da pasta são "imprimidos" (removidos) e adicionado os dados de impressão na 
+        tabela específica para gerar Relatórios.
+    </p>
   </li>
 </ul>
 
