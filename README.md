@@ -37,7 +37,7 @@
       - Versão iText-5.0.5 </a> 
      </li>
      <li>
-      <a href="https://dev.mysql.com/downloads/connector/j/" target="_blank">ITextPluggin 
+      <a href="https://dev.mysql.com/downloads/connector/j/" target="_blank"> My SQL Connector 
       - MySql Connector - 5.1.45 </a> 
      </li>
     </ul>
